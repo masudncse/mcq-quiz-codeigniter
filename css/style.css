@@ -1,0 +1,119 @@
+body{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#04b39d+2,0054a6+98 */
+    background: #04b39d; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #04b39d 2%, #0054a6 98%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, #04b39d 2%,#0054a6 98%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, #04b39d 2%,#0054a6 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#04b39d', endColorstr='#0054a6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header {
+    /*border-bottom: 2px solid #2e3192;*/
+    /*padding: 25px 0;*/
+    /*margin-bottom: 80px;*/
+}
+
+.message{
+    background: #d91b5c;
+    margin-bottom: 40px;
+}
+
+.message p{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+
+.logo img {
+    width: 18rem;
+    padding: 10px 0 20px;
+}
+
+form label {
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.form-control {
+    /*border-radius: 0;*/
+    height: 40px;
+    background: #bbd7dd;
+    color: #000000;
+}
+
+.form-group{
+    margin-bottom: 28px;
+}
+
+.form-group p,
+.checkbox p {
+    background: red;
+    color: #ffffff;
+    display: inline-block;
+    /*padding: 1px 3px;*/
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #d91b5c;
+    border-color: #cd1755;
+    padding: 12px 45px;
+    /*font-weight: bold;*/
+    text-transform: uppercase;
+}
+
+.btn-primary,
+.btn-danger,
+.btn-warning,
+.btn-success{
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.exam h5 {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.exam h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.exam .radio label{
+    font-size: 16px;
+    /*font-weight: bold;*/
+    min-height: 30px;
+    text-transform: inherit;
+}
+
+.result {
+
+}
+
+.result a {
+    padding: 12px 30px;
+    /*font-weight: bold;*/
+}
+
+footer {
+    border-top: 2px solid #5f95bb;
+    margin-top: 80px;
+}
+
+footer p {
+    text-align: center;
+    line-height: 60px;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
